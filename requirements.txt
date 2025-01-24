@@ -1,0 +1,7 @@
+selenium
+aiogram
+aiosqlite
+fastapi
+uvicorn
+aiohttp
+sqlite3
