@@ -23,7 +23,7 @@ app = FastAPI()
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
-ADMIN_IDS = [540375100, 7028994705]
+ADMIN_IDS = []
 
 button_history = KeyboardButton(text="История покупок")
 button_profile = KeyboardButton(text="Профиль")
